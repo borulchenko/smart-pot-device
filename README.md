@@ -1,5 +1,5 @@
 # smart-pot-device
 
-Writen on android.
+Writen for arduino device.
 
 Subscribes/publishes topics to mqtt broker, which will be consumed/produced by SmartPotCore service.
